@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustafa Ali Dikçinar</h1>
-<h4 align="left">A passionate frontend developer from Aydın,Turkey</h3>
+In the mechatronics engineering that I studied, I was mostly working on software. Due to the spread of Covid, I started to
+work as a freelance mobile developer and I have developed applications with Flutter SDK.
 
 - 🌱 I’m currently learning **Swift UI**
 
