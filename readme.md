@@ -33,6 +33,3 @@
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdikcinar&show_icons=true&locale=en&layout=compact" alt="mdikcinar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdikcinar&show_icons=true&locale=en" alt="mdikcinar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdikcinar&" alt="mdikcinar" /></p>
