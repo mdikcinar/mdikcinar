@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa Ali Dikçinar</h1>
-<h3 align="center">A passionate frontend developer from Aydın,Turkey</h3>
+<h4 align="left">A passionate frontend developer from Aydın,Turkey</h3>
 
 - 🌱 I’m currently learning **Swift UI**
 
