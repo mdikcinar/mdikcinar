@@ -6,13 +6,7 @@ work as a freelance mobile developer and I have developed applications with Flut
 
 - 📫 How to reach me **mustafaalidikcinar@hotmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mustafa-ali-dik%c3%a7inar-05a829222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mustafa-ali-dik%c3%a7inar-05a829222/" height="20" width="20" /></a>
-  <a href="http://www.medium.com/@mdikcinar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="20" height="20" /></a> <a href="https://stackoverflow.com/users/7829275/mustafa-ali-dik%c3%a7inar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="20" height="20" /></a>
-  <a href="https://twitter.com/mdikcinar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdikcinar" height="20" width="20" /></a>
-  <a href="https://instagram.com/mdikcinar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdikcinar" height="20" width="20" /></a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -41,5 +35,14 @@ work as a freelance mobile developer and I have developed applications with Flut
 | Gym Workout Tracker & Gym Log | https://t.ly/K6A0       | https://t.ly/dJTV     | 
 | Women Workouts: No Equipment  | https://t.ly/QNpS       | https://t.ly/2to5     | 
 | Movieet                       | https://t.ly/2NBG       | https://t.ly/GDhX     | 
+
+
+<h4 align="left">Connect with me</h4>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mustafa-ali-dik%c3%a7inar-05a829222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mustafa-ali-dik%c3%a7inar-05a829222/" height="20" width="20" /></a>
+  <a href="http://www.medium.com/@mdikcinar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="20" height="20" /></a> <a href="https://stackoverflow.com/users/7829275/mustafa-ali-dik%c3%a7inar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="20" height="20" /></a>
+  <a href="https://twitter.com/mdikcinar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdikcinar" height="20" width="20" /></a>
+  <a href="https://instagram.com/mdikcinar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdikcinar" height="20" width="20" /></a>
+</p>
     
 
