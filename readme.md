@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋</h1>
 In the mechatronics engineering that I studied, I was mostly working on software. Due to the spread of Covid, I started to
-work as a freelance mobile developer and I have developed applications with Flutter SDK.
+work as a freelance mobile developer and currently i am working as Flutter Developer.
 
 - 🌱 I’m currently learning **Swift UI**
 
