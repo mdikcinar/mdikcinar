@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Mustafa Ali Dikçinar</h1>
+<h1 align="left">Hi 👋</h1>
 In the mechatronics engineering that I studied, I was mostly working on software. Due to the spread of Covid, I started to
 work as a freelance mobile developer and I have developed applications with Flutter SDK.
 
